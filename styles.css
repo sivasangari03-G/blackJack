@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 60px;
+}
+
+#playaround {
+    font-size: 40px;
+    font-style: italic;
+    color: white;
+}
+#cards, #sum {
+    color: white;
+    font-size: 30px;
+}
+
+.button {
+    font-size: 30px;
+    margin-bottom: 8px;
+    width: 300px;
+    padding: 4px;
+    border-radius: 4px;
+    border: none;
+    background-color: goldenrod;
+    color: green;
+}
+#player {
+    color: white;
+    font-size: 30px;
+}
