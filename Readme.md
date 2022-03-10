@@ -10,6 +10,8 @@ Just have to clone the repository or download the zip version and then open inde
 
 - [Sivasangari](https://github.com/sivasangari03-G)
 
+Now visit the deployed site : "https://gameblackjack.herokuapp.com/"
+
 ## How to play this game?
 - Start Game by clicking "Start Game" button
 - It will randomly pick 2 cards.
